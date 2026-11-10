@@ -1,0 +1,7 @@
+# Windower personal state and debugging output
+data/
+*.log
+*.bak
+*.tmp
+.DS_Store
+__pycache__/
